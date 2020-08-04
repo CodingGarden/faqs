@@ -208,9 +208,7 @@ Click the icon below the twitch chat to redeem them.
 
 ## How did you make those overlays / chat window?
 
-All of my overlays were created live on stream! (Links to videos coming soon...)
-
-All of the code for my overlays is open source under the MIT license. Links to the repos can be found here: https://git.io/stream-code
+All of my overlays were created live on stream and all of the code is open source under the MIT license! Read more about that [here](./OVERLAYS_CHAT_MANAGER.md).
 
 ## Will this stream be available later?
 
@@ -381,7 +379,7 @@ I currently use [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/). T
 
 I switched to Google Chrome for a while, but Firefox has caught up in terms of performance / features, so I'm back to Firefox.
 
-I use the following Privacy Related Extensions. Firefox + these extensions is my preferred way of browsing the web instead of using a browser that has features "bundled" in:
+I use the following Privacy Related Extensions. Firefox + these extensions is my preferred way of browsing the web instead of using a browser that has these features "bundled" in:
 * Adblocker - [uBlock Origin](https://github.com/gorhill/uBlock)
 * Tracker Blocker - [Privacy Badger](https://privacybadger.org/)
   * Firefox now includes tracker blocking, but I leave Privacy Badger enabled.

@@ -17,6 +17,15 @@ If you have a question that you believe should be listed here, please [open an i
   - [What is that break reminder that keeps popping up?](#what-is-that-break-reminder-that-keeps-popping-up)
   - [What keyboard do you use?](#what-keyboard-do-you-use)
   - [What extension do you use to search with !npm and !mdn](#what-extension-do-you-use-to-search-with-npm-and-mdn)
+- [Twitch / Stream](#twitch--stream)
+  - [What is your schedule?](#what-is-your-schedule)
+  - [Do you do this fulltime?](#do-you-do-this-fulltime)
+  - [What are the rules of the chat?](#what-are-the-rules-of-the-chat)
+  - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
+  - [How is your chair (and hair) green?](#how-is-your-chair-and-hair-green)
+  - [What are those LEDS on screen?](#what-are-those-leds-on-screen)
+  - [What are channel points / seedlings?](#what-are-channel-points--seedlings)
+  - [How did you make those overlays / chat window?](#how-did-you-make-those-overlays--chat-window)
 - [History of Coding Garden](#history-of-coding-garden)
   - [How long have you been doing this?](#how-long-have-you-been-doing-this)
   - [How did you start live streaming?](#how-did-you-start-live-streaming)
@@ -28,21 +37,20 @@ If you have a question that you believe should be listed here, please [open an i
   - [What does CJ R. stand for?](#what-does-cj-r-stand-for)
   - [How old are you?](#how-old-are-you)
   - [Who is that dog on the getting started screen? Do you really have a Saint Bernard?](#who-is-that-dog-on-the-getting-started-screen-do-you-really-have-a-saint-bernard)
-- [Twitch](#twitch)
-  - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
-  - [How is your chair (and hair) green?](#how-is-your-chair-and-hair-green)
-  - [What are those LEDS on screen?](#what-are-those-leds-on-screen)
-  - [What are channel points / seedlings?](#what-are-channel-points--seedlings)
-  - [How did you make those overlays / chat window?](#how-did-you-make-those-overlays--chat-window)
-  - [I'm banned in twitch chat! I did nothing wrong! What do I do?](#im-banned-in-twitch-chat-i-did-nothing-wrong-what-do-i-do)
 - [Tech Preferences](#tech-preferences)
+  - [Why don't you use VIM?](#why-dont-you-use-vim)
+  - [Why do you prefer Vue.js?](#why-do-you-prefer-vuejs)
+  - [Where are those gss and gaa git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
   - [What is your preferred deployment method?](#what-is-your-preferred-deployment-method)
 - [Setup / Computer](#setup--computer)
   - [Why do you use a Mac?](#why-do-you-use-a-mac)
   - [What browser do you use? What extensions do you use?](#what-browser-do-you-use-what-extensions-do-you-use)
+  - [Why do you use DuckDuckGo?](#why-do-you-use-duckduckgo)
   - [How is your YouTube green themed?](#how-is-your-youtube-green-themed)
 - [Miscellaneous](#miscellaneous)
+  - [What chair do you use?](#what-chair-do-you-use)
   - [Why is your CPU 170 degrees celsius?](#why-is-your-cpu-170-degrees-celsius)
+  - [I'm banned in twitch chat! I did nothing wrong! What do I do?](#im-banned-in-twitch-chat-i-did-nothing-wrong-what-do-i-do)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -101,6 +109,62 @@ Some of the ones I use most often:
 * !gh - Github
 * !w - Wikipedia
 * !g - google
+
+# Twitch / Stream
+
+## What is your schedule?
+
+View my schedule here: https://www.twitch.tv/codinggarden/schedule
+
+Also, join the discord for updates, unplanned streams and go live notifications: https://coding.garden/discord
+
+## Do you do this fulltime?
+
+No. Just part time. See the [personal questions section](#what-do-you-do-for-a-living) for more info.
+
+## What are the rules of the chat?
+
+All chat messages should abide by the Coding Garden code of conduct: https://cdg.sh/conduct
+
+In summary:
+
+0. Be kind.
+1. Be mindful of your language.
+2. Be respectful.
+3. Be considerate.
+4. Be open minded.
+
+## Why is the chat in slow mode?
+
+I used to be able to respond to every single message in the chat, but this is just not possible anymore. Slow mode gives me a fighting chance 😅.
+
+The mods (and I) adjust slow mode based on how many people are watching and how busy the chat is.
+
+Whatever the slow mode is set to, use that time to construct a beautiful and thoughtful message instead of just spamming.
+
+## How is your chair (and hair) green?
+
+[I use a blue screen](https://coding.garden/gear/). In the early days, I used a green screen, but with the garden theme, things are often green, so I switched to a blue screen.
+
+## What are those LEDS on screen?
+
+They are controlled by twitch chat. I built it live on stream: https://www.youtube.com/watch?v=onkzhfXJlp0
+
+You can make the LEDs on the screen change state using "!led (8-digit binary number)". 1 is on, 0 is off.
+
+## What are channel points / seedlings?
+
+You can earn channel points (seedlings) by watching the stream. Learn more about how much you will earn [here](https://help.twitch.tv/s/article/channel-points-guide#viewers).
+
+Seedlings can be used to redeem rewards like stretch, hydrate, focus mode, code reviews and more.
+
+Click the icon below the twitch chat to redeem them.
+
+## How did you make those overlays / chat window?
+
+All of my overlays were created live on stream! (Links to videos coming soon...)
+
+All of the code for my overlays is open source under the MIT license. Links to the repos can be found here: https://git.io/stream-code
 
 # History of Coding Garden
 
@@ -182,37 +246,55 @@ I was streaming at an undisclosed location once, and [he did make an appearance]
 
 One day I'll setup my stream upstairs and have a dog cam 🐶.
 
-# Twitch
+# Tech Preferences
 
-## Why is the chat in slow mode?
-
-I used to be able to respond to every single message in the chat, but this is just not possible anymore. Slow mode gives me a fighting chance 😅.
-
-The mods (and I) adjust slow mode based on how many people are watching and how busy the chat is.
-
-Whatever the slow mode is set to, use that time to construct a beautiful and thoughtful message instead of just spamming.
-
-## How is your chair (and hair) green?
-
-[I use a blue screen](https://coding.garden/gear/). In the early days, I used a green screen, but with the garden theme, things are often green, so I switched to a blue screen.
-
-## What are those LEDS on screen?
-
-They are controlled by twitch chat. I built it live on stream: https://www.youtube.com/watch?v=onkzhfXJlp0
-
-You can make the LEDs on the screen change state using "!led (8-digit binary number)". 1 is on, 0 is off.
-
-## What are channel points / seedlings?
-
-You can earn channel points (seedlings) by watching the stream. Learn more about how much you will earn [here](https://help.twitch.tv/s/article/channel-points-guide#viewers).
-
-Seedlings can be used to redeem rewards like stretch, hydrate, focus mode, code reviews and more.
-
-Click the icon below the twitch chat to redeem them.
-
-## How did you make those overlays / chat window?
+## Why don't you use VIM?
 
 TBD
+
+## Why do you prefer Vue.js?
+
+TBD
+
+## Where are those gss and gaa git shortcuts defined?
+
+Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
+
+You can see my `.bash_profile` including all of my aliases [here](https://github.com/w3cj/dotfiles/blob/master/.bash_profile#L47).
+
+## What is your preferred deployment method?
+
+TBD
+
+# Setup / Computer
+
+## Why do you use a Mac?
+
+TBD
+
+## What browser do you use? What extensions do you use?
+
+TBD
+
+## Why do you use DuckDuckGo?
+
+They respect my [privacy](https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/).
+
+They have a great way to search across other websites with [bang commands](https://duckduckgo.com/bang).
+
+## How is your YouTube green themed?
+
+I use an extension called [Enhancer for Youtube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+
+# Miscellaneous
+
+## What chair do you use?
+
+I use an Ikea Markus chair. They don't sell the green one anymore, but you can still get a black / grey one [here](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/).
+
+## Why is your CPU 170 degrees celsius?
+
+It's not. The measurement displayed is in degrees fahrenheit.
 
 ## I'm banned in twitch chat! I did nothing wrong! What do I do?
 
@@ -230,29 +312,3 @@ This seems to be an issue a lot of people have at random.
 * Try all the things.
 
 Sorry this is happening. If none of these things work, contact twitch support: https://help.twitch.tv/s/contactsupport
-
-# Tech Preferences
-
-## What is your preferred deployment method?
-
-TBD
-
-# Setup / Computer
-
-## Why do you use a Mac?
-
-TBD
-
-## What browser do you use? What extensions do you use?
-
-TBD
-
-## How is your YouTube green themed?
-
-I use an extension called [Enhancer for Youtube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
-
-# Miscellaneous
-
-## Why is your CPU 170 degrees celsius?
-
-It's not. The measurement displayed is in degrees fahrenheit.

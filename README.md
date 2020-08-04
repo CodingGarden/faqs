@@ -17,7 +17,9 @@ If you have a question that you believe should be listed here, please [open an i
   - [What is that break reminder that keeps popping up?](#what-is-that-break-reminder-that-keeps-popping-up)
   - [What keyboard do you use?](#what-keyboard-do-you-use)
   - [What extension do you use to search with !npm and !mdn](#what-extension-do-you-use-to-search-with-npm-and-mdn)
+  - [Are you looking for work? Will you build X App for me?](#are-you-looking-for-work-will-you-build-x-app-for-me)
 - [Twitch / Stream](#twitch--stream)
+  - [Why don't you stream on YouTube anymore?](#why-dont-you-stream-on-youtube-anymore)
   - [What is your schedule?](#what-is-your-schedule)
   - [Do you do this fulltime?](#do-you-do-this-fulltime)
   - [What are the rules of the chat?](#what-are-the-rules-of-the-chat)
@@ -27,6 +29,8 @@ If you have a question that you believe should be listed here, please [open an i
   - [What are those LEDS on screen?](#what-are-those-leds-on-screen)
   - [What are channel points / seedlings?](#what-are-channel-points--seedlings)
   - [How did you make those overlays / chat window?](#how-did-you-make-those-overlays--chat-window)
+  - [Will this stream be available later?](#will-this-stream-be-available-later)
+  - [Can I be a mod?](#can-i-be-a-mod)
 - [History of Coding Garden](#history-of-coding-garden)
   - [How long have you been doing this?](#how-long-have-you-been-doing-this)
   - [How did you start live streaming?](#how-did-you-start-live-streaming)
@@ -41,14 +45,16 @@ If you have a question that you believe should be listed here, please [open an i
 - [Tech Preferences](#tech-preferences)
   - [Why don't you use VIM?](#why-dont-you-use-vim)
   - [Why do you prefer Vue.js?](#why-do-you-prefer-vuejs)
-  - [Where are those `gss` and `gaa` git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
   - [What is your preferred deployment method?](#what-is-your-preferred-deployment-method)
 - [Setup / Computer](#setup--computer)
+  - [What do you use to live stream?](#what-do-you-use-to-live-stream)
   - [Why do you use a Mac?](#why-do-you-use-a-mac)
+  - [Where are those `gss` and `gaa` git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
   - [What browser do you use? What extensions do you use?](#what-browser-do-you-use-what-extensions-do-you-use)
   - [Why do you use DuckDuckGo?](#why-do-you-use-duckduckgo)
   - [How is your YouTube green themed?](#how-is-your-youtube-green-themed)
 - [Miscellaneous](#miscellaneous)
+  - [Do you have a video / tutorial on X?](#do-you-have-a-video--tutorial-on-x)
   - [What chair do you use?](#what-chair-do-you-use)
   - [Why is your CPU 170 degrees celsius?](#why-is-your-cpu-170-degrees-celsius)
   - [I'm banned in twitch chat! I did nothing wrong! What do I do?](#im-banned-in-twitch-chat-i-did-nothing-wrong-what-do-i-do)
@@ -79,7 +85,7 @@ This is not a VSCode plugin. This is just built in to a Mac and works anywhere:
 
 This also works on Windows 10:
 
-* Windows: Windows Key + Space
+* Windows: Windows Key + Period or Windows Key + Colon
 
 ## What is that break reminder that keeps popping up?
 
@@ -111,7 +117,24 @@ Some of the ones I use most often:
 * !w - Wikipedia
 * !g - google
 
+## Are you looking for work? Will you build X App for me?
+
+No. I have a [full time job](#what-do-you-do-for-a-living).
+
 # Twitch / Stream
+
+## Why don't you stream on YouTube anymore?
+
+I switched to twitch fully at the end of April 2020. I will do an exclusive live stream on YouTube occasionally, and a supporters only stream on YouTube occasionally, but my contract with twitch restricts me from cross streaming to Twitch + YouTube simultaneously.
+
+There are several reasons I switched to twitch:
+* Better APIs / Integrations
+* Lower Latency
+* Stream Clips (created by anyone)
+* Community support
+  * The majority of live coders in this space are on Twitch, not YouTube
+* Community features like teams, raids, hosts and watch parties.
+* More emotes!!
 
 ## What is your schedule?
 
@@ -178,6 +201,18 @@ Click the icon below the twitch chat to redeem them.
 All of my overlays were created live on stream! (Links to videos coming soon...)
 
 All of the code for my overlays is open source under the MIT license. Links to the repos can be found here: https://git.io/stream-code
+
+## Will this stream be available later?
+
+Yes. You can find the most recent live streams on my [twitch video page](https://www.twitch.tv/codinggarden/videos?filter=archives&sort=time).
+
+Live streams are archived / clipped and uploaded to [YouTube](https://youtube.com/codinggardenwithcj) about 48 hours after they have happened.
+
+## Can I be a mod?
+
+The first rule of being a mod, is you do not ask to be a mod.
+
+All of my mods are long time viewers of the stream, have gained my trust over time and positively contribute to the streams / chat.
 
 # History of Coding Garden
 
@@ -279,12 +314,6 @@ Here are a few timestamped links that will answer your question:
 * [Overview of Vue (with React developers in mind)](https://www.youtube.com/watch?v=Sba3S4SD4IE&t=7205s)
 * [When should I choose Vue over React / Angular](https://www.twitch.tv/videos/700224339?t=0h36m39s)
 
-## Where are those `gss` and `gaa` git shortcuts defined?
-
-Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
-
-You can see my `.bash_profile` including all of my aliases [here](https://github.com/w3cj/dotfiles/blob/master/.bash_profile#L47).
-
 ## What is your preferred deployment method?
 
 It _really_ depends. Some services I use:
@@ -299,6 +328,14 @@ It _really_ depends. Some services I use:
   * Good for static websites (hosted on a CDN)
 
 # Setup / Computer
+
+I have done a live stream where I setup my Macbook for development from scratch and answer several of the questions you see below [here](https://www.youtube.com/watch?v=tMNOpaQrfAE).
+
+## What do you use to live stream?
+
+You can see all of the gear I use to stream [here](https://coding.garden/gear/), also, checkout the diagram at the [bottom of that page](https://coding.garden/gear/#stream-setup).
+
+I have streamed myself setting up / talking about my equipment [here](https://www.youtube.com/watch?v=EFv9fMmuj-o). My setup these days is mostly the same, I just use a desktop gaming PC for streaming instead of a gaming laptop, and I stream at home in my basement instead of in an office space.
 
 ## Why do you use a Mac?
 
@@ -317,6 +354,12 @@ Reasons I use a mac:
 * I can run Xcode and build / test iOS / mac apps without the need for any 3rd party tools / services.
 * I do creative things outside of coding. The Adobe Suite, Abelton live / logic pro all work flawlessly on my Mac.
 * If I want to use Windows / Linux, I can dual boot or use a virtual machine.
+
+## Where are those `gss` and `gaa` git shortcuts defined?
+
+Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
+
+You can see my `.bash_profile` including all of my aliases [here](https://github.com/w3cj/dotfiles/blob/master/.bash_profile#L47).
 
 ## What browser do you use? What extensions do you use?
 
@@ -351,6 +394,14 @@ I use an extension called [Enhancer for Youtube](https://addons.mozilla.org/en-U
 
 # Miscellaneous
 
+## Do you have a video / tutorial on X?
+
+You can search across all of my past videos / livestreams [here](https://coding.garden/videos/#/?filter=).
+
+You can also try searching on [YouTube](https://www.youtube.com/results?search_query=coding+garden) directly.
+
+If you don't find anything, feel free to ask in the chat, [on discord](https://coding.garden/discord) or suggest a video idea here: https://vox.coding.garden/
+
 ## What chair do you use?
 
 I use an Ikea Markus chair. They don't sell the green one anymore, but you can still get a black / grey one [here](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/).
@@ -369,9 +420,9 @@ This seems to be an issue a lot of people have at random.
 * Try using a different device.
 * Try disabling extensions.
 * Try a different operating system.
-* Try using the twitch app instead of the browser.
-* Try using a twitch chat client like Chatty or Chatterino.
-* Write your own twitch client with tmi.js...
+* Try using the [twitch app](https://www.twitch.tv/downloads/) instead of the browser.
+* Try using a twitch chat client like [Chatty](https://chatty.github.io/) or [Chatterino](https://chatterino.com/).
+* Write your own twitch client with [tmi.js](https://github.com/tmijs/tmi.js)...
 * Try all the things.
 
 Sorry this is happening. If none of these things work, contact twitch support: https://help.twitch.tv/s/contactsupport

@@ -21,6 +21,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [What is your schedule?](#what-is-your-schedule)
   - [Do you do this fulltime?](#do-you-do-this-fulltime)
   - [What are the rules of the chat?](#what-are-the-rules-of-the-chat)
+  - [Why is everyone typing !drop?](#why-is-everyone-typing-drop)
   - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
   - [How is your chair (and hair) green?](#how-is-your-chair-and-hair-green)
   - [What are those LEDS on screen?](#what-are-those-leds-on-screen)
@@ -40,7 +41,7 @@ If you have a question that you believe should be listed here, please [open an i
 - [Tech Preferences](#tech-preferences)
   - [Why don't you use VIM?](#why-dont-you-use-vim)
   - [Why do you prefer Vue.js?](#why-do-you-prefer-vuejs)
-  - [Where are those gss and gaa git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
+  - [Where are those `gss` and `gaa` git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
   - [What is your preferred deployment method?](#what-is-your-preferred-deployment-method)
 - [Setup / Computer](#setup--computer)
   - [Why do you use a Mac?](#why-do-you-use-a-mac)
@@ -134,6 +135,18 @@ In summary:
 3. Be considerate.
 4. Be open minded.
 
+## Why is everyone typing !drop?
+
+This is the drop game! The garden of seedlings at the bottom center of my screen are all of the drops that have landed there.
+
+You can:
+* Drop a seed: !drop
+* Drop your twitch avatar: !drop me
+* Drop any twitch / BTTV / FFZ emote: !drop codinggHeart
+* Drop an emoji: !drop 💚
+
+This game was coded live on stream and was inspired by the [PenguinDrop](https://github.com/instafluff/PenguinDrop) game created by [Instafluff](https://www.twitch.tv/instafluff). More on that in the [stream overlays section](#how-did-you-make-those-overlays--chat-window).
+
 ## Why is the chat in slow mode?
 
 I used to be able to respond to every single message in the chat, but this is just not possible anymore. Slow mode gives me a fighting chance 😅.
@@ -170,6 +183,8 @@ All of the code for my overlays is open source under the MIT license. Links to t
 
 ## How long have you been doing this?
 
+I have been live streaming for 2.5+ years.
+
 My first live stream was broadcasted to [YouTube on February 19th, 2018](https://www.youtube.com/watch?v=aql62xliRzE). My YouTube channel had about 300 subscribers at the time, and there were a max of 3 people in the chat.
 
 Between February 2018 and October 2019, I did **158** live streams on YouTube only.
@@ -192,7 +207,7 @@ In total between February 2018 and July 2020, I have done **311** live streams.
 
 I'm an educator at heart. My live streams started as a way for me to continue teaching outside of the classroom.
 
-I taught Full Stack Web Development at a code school for 3+ years. I taught 150+ students and 6+ cohorts. During this time, I honed my teaching and presentation skills. 
+I taught Full Stack Web Development at a code school for 3+ years. I taught 150+ students and 6+ cohorts. That's over 700+ in person lessons, breakouts, presentations and 1 on 1s with students. During this time, I honed my teaching, mentoring and presentation skills. My live streams are very similar to how I ran and structured my in person lessons.
 
 My students were often at many different stages of learning, so my teaching style reflected that. Instead of pre-planning all of my lessons, my lessons were planned the day of, based on where my students were and based on what they needed to learn next. This was the beginnings of my improvisational style. My lessons were often live code-alongs, and I often would need to quickly code an example from scratch to demonstrate a concept.
 
@@ -250,13 +265,21 @@ One day I'll setup my stream upstairs and have a dog cam 🐶.
 
 ## Why don't you use VIM?
 
-TBD
+Several reasons:
+* The days of needing to ssh into a remote computer to edit code in a terminal are [long gone](https://code.visualstudio.com/docs/remote/ssh).
+* Terminal based editors make it very hard for viewers to follow what is happening, especially beginners.
+* I prefer to not memorize specific / custom keyboard shortcuts and instead rely on [global / universal keyboard shortcuts](https://gist.github.com/w3cj/022081eda22081b82c52).
+* I also prefer to use the intellisense / autocomplete / snippets provided by VSCode. I realize these can be setup in VIM, but this requires a lot of setup / configuration / tweaking that I do not want to do.
 
 ## Why do you prefer Vue.js?
 
-TBD
+I have talked about this in depth on many different live streams.
 
-## Where are those gss and gaa git shortcuts defined?
+Here are a few timestamped links that will answer your question:
+* [Overview of Vue (with React developers in mind)](https://www.youtube.com/watch?v=Sba3S4SD4IE&t=7205s)
+* [When should I choose Vue over React / Angular](https://www.twitch.tv/videos/700224339?t=0h36m39s)
+
+## Where are those `gss` and `gaa` git shortcuts defined?
 
 Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
 
@@ -264,17 +287,57 @@ You can see my `.bash_profile` including all of my aliases [here](https://github
 
 ## What is your preferred deployment method?
 
-TBD
+It _really_ depends. Some services I use:
+* [Vercel formerly now.sh](https://vercel.com/)
+  * Good for static websites (hosted on a CDN)
+  * Serverless functions
+* [Heroku](https://heroku.com/)
+  * Good for long running processes (think websocket connections) with easy deployment
+* [AWS Lightsail](https://aws.amazon.com/lightsail/pricing/)
+  * Cheap VPS, requires linux system administration / setup
+* [Surge](https://surge.sh/)
+  * Good for static websites (hosted on a CDN)
 
 # Setup / Computer
 
 ## Why do you use a Mac?
 
-TBD
+Preface: I am not an apple "fan boy". My macbook is the only apple product I use.
+* I don't have an icloud account.
+* I don't use siri.
+* I have some old iPhones I use for testing occasionally, but I use an Android phone + google services as my daily driver.
+
+Reasons I use a mac:
+* Everything just works™️ on my Mac.
+  * I spent 6+ years in Windows IT support. I've used Windows 95, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable.
+  * Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works, but I've used / installed linux distros since before point and click installers were the norm. I've spent weeks searching for working drivers and tweaking linux systems to get them working. Even today, there are quite a few proprietary video drivers still required to get things working fully.
+* OS X is based on FreeBSD.
+  * Most tools / utilities for linux are supported / work out of the box.
+  * I can use a native Bash shell.
+* I can run Xcode and build / test iOS / mac apps without the need for any 3rd party tools / services.
+* I do creative things outside of coding. The Adobe Suite, Abelton live / logic pro all work flawlessly on my Mac.
+* If I want to use Windows / Linux, I can dual boot or use a virtual machine.
 
 ## What browser do you use? What extensions do you use?
 
-TBD
+I currently use [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/). The [Mozilla Foundation](https://foundation.mozilla.org/en/about/) is a great organization with a great cause.
+
+I switched to Google Chrome for a while, but Firefox has caught up in terms of performance / features, so I'm back to Firefox.
+
+I use the following Privacy Related Extensions. Firefox + these extensions is my preferred way of browsing the web instead of using a browser that has features "bundled" in:
+* Adblocker - [uBlock Origin](https://github.com/gorhill/uBlock)
+* Tracker Blocker - [Privacy Badger](https://privacybadger.org/)
+  * Firefox now includes tracker blocking, but I leave Privacy Badger enabled.
+* [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
+  * Removes cookies from websites that are not in my whitelist whenever a tab is closed. An additional precaution to tracker blocking.
+* [Decentraleyes](https://decentraleyes.org/)
+  * Caches CDN links locally and intercepts requests to serve from the cache. Prevents CDNs from tracking you across websites.
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+  * This isn't needed as much these days, as most websites use HTTPS, but this prevents certain redirect / plain text attacks from occurring.
+
+Themes / customization:
+* Custom CSS on websites - [Stylus](https://github.com/openstyles/stylus)
+* Custom JavaScript on websites - [Tampermonkey](https://www.tampermonkey.net/)
 
 ## Why do you use DuckDuckGo?
 

@@ -27,6 +27,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
   - [How is your chair (and hair) green?](#how-is-your-chair-and-hair-green)
   - [What are those LEDS on screen?](#what-are-those-leds-on-screen)
+  - [What are cjClap POGGERS PogU OMEGALUL etc. I see in the chat?](#what-are-cjclap-poggers-pogu-omegalul-etc-i-see-in-the-chat)
   - [What are channel points / seedlings?](#what-are-channel-points--seedlings)
   - [How did you make those overlays / chat window?](#how-did-you-make-those-overlays--chat-window)
   - [Will this stream be available later?](#will-this-stream-be-available-later)
@@ -50,6 +51,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [What do you use to live stream?](#what-do-you-use-to-live-stream)
   - [Why do you use a Mac?](#why-do-you-use-a-mac)
   - [Where are those `gss` and `gaa` git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
+  - [What do you use to show all those stats in the menu bar?](#what-do-you-use-to-show-all-those-stats-in-the-menu-bar)
   - [What browser do you use? What extensions do you use?](#what-browser-do-you-use-what-extensions-do-you-use)
   - [Why do you use DuckDuckGo?](#why-do-you-use-duckduckgo)
   - [How is your YouTube green themed?](#how-is-your-youtube-green-themed)
@@ -187,6 +189,14 @@ Whatever the slow mode is set to, use that time to construct a beautiful and tho
 They are controlled by twitch chat. I built it live on stream: https://www.youtube.com/watch?v=onkzhfXJlp0
 
 You can make the LEDs on the screen change state using "!led (8-digit binary number)". 1 is on, 0 is off.
+
+## What are cjClap POGGERS PogU OMEGALUL etc. I see in the chat?
+
+These are [Better Twitch TV](https://betterttv.com/) or [Frankerfacez](https://www.frankerfacez.com/) emotes! You can install a browser extension that renders these types of emotes all across twitch. (I use the Frankerfacez extension which has a BTTV addon).
+
+You can see a list of the Frankerfacez emotes enabled for my channel [here](https://www.frankerfacez.com/channel/codinggarden).
+
+You can see the list of BTTV emotes enabled for my channel [here](https://betterttv.com/users/5e0c2494d40c477ba4a53b7d).
 
 ## What are channel points / seedlings?
 
@@ -360,6 +370,10 @@ Reasons I use a mac:
 Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
 
 You can see my `.bash_profile` including all of my aliases [here](https://github.com/w3cj/dotfiles/blob/master/.bash_profile#L47).
+
+## What do you use to show all those stats in the menu bar?
+
+I use a tool called [iStat Menus](https://bjango.com/mac/istatmenus/). I have version 5.
 
 ## What browser do you use? What extensions do you use?
 

@@ -23,6 +23,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [What is your schedule?](#what-is-your-schedule)
   - [Do you do this fulltime?](#do-you-do-this-fulltime)
   - [What are the rules of the chat?](#what-are-the-rules-of-the-chat)
+  - [What are the available commands in the chat?](#what-are-the-available-commands-in-the-chat)
   - [Why is everyone typing !drop?](#why-is-everyone-typing-drop)
   - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
   - [How is your chair (and hair) green?](#how-is-your-chair-and-hair-green)
@@ -32,6 +33,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [How did you make those overlays / chat window?](#how-did-you-make-those-overlays--chat-window)
   - [Will this stream be available later?](#will-this-stream-be-available-later)
   - [Can I be a mod?](#can-i-be-a-mod)
+  - [Why are you standing?](#why-are-you-standing)
 - [History of Coding Garden](#history-of-coding-garden)
   - [How long have you been doing this?](#how-long-have-you-been-doing-this)
   - [How did you start live streaming?](#how-did-you-start-live-streaming)
@@ -47,8 +49,10 @@ If you have a question that you believe should be listed here, please [open an i
   - [Why don't you use VIM?](#why-dont-you-use-vim)
   - [Why do you prefer Vue.js?](#why-do-you-prefer-vuejs)
   - [What is your preferred deployment method?](#what-is-your-preferred-deployment-method)
+  - [What are some good resources to learn to code?](#what-are-some-good-resources-to-learn-to-code)
 - [Setup / Computer](#setup--computer)
   - [What do you use to live stream?](#what-do-you-use-to-live-stream)
+  - [What Macbook do you have?](#what-macbook-do-you-have)
   - [Why do you use a Mac?](#why-do-you-use-a-mac)
   - [Where are those `gss` and `gaa` git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
   - [What do you use to show all those stats in the menu bar?](#what-do-you-use-to-show-all-those-stats-in-the-menu-bar)
@@ -58,6 +62,7 @@ If you have a question that you believe should be listed here, please [open an i
 - [Miscellaneous](#miscellaneous)
   - [Do you have a video / tutorial on X?](#do-you-have-a-video--tutorial-on-x)
   - [What chair do you use?](#what-chair-do-you-use)
+  - [What desk do you use?](#what-desk-do-you-use)
   - [Why is your CPU 170 degrees celsius?](#why-is-your-cpu-170-degrees-celsius)
   - [I'm banned in twitch chat! I did nothing wrong! What do I do?](#im-banned-in-twitch-chat-i-did-nothing-wrong-what-do-i-do)
 
@@ -160,6 +165,10 @@ In summary:
 3. Be considerate.
 4. Be open minded.
 
+## What are the available commands in the chat?
+
+See the list of chat commands here: https://coding.garden/commands
+
 ## Why is everyone typing !drop?
 
 This is the drop game! The garden of seedlings at the bottom center of my screen are all of the drops that have landed there.
@@ -221,6 +230,12 @@ Live streams are archived / clipped and uploaded to [YouTube](https://youtube.co
 The first rule of being a mod, is you do not ask to be a mod.
 
 All of my mods are long time viewers of the stream, have gained my trust over time and positively contribute to the streams / chat.
+
+## Why are you standing?
+
+* It keeps my energy / enthusiasm up.
+* I can point at the screen weather man style.
+* Right now, I sit while working from home. Standing during my streams is a nice change of pace.
 
 # History of Coding Garden
 
@@ -335,6 +350,23 @@ It _really_ depends. Some services I use:
 * [Surge](https://surge.sh/)
   * Good for static websites (hosted on a CDN)
 
+## What are some good resources to learn to code?
+
+Resources with full curriculums:
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+* [The Odin Project](https://www.theodinproject.com/)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+
+Great for complete beginners and non technical people:
+* [The Coding Train](https://www.youtube.com/user/shiffman)
+* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+There are _many_ college courses with free online class materials and recorded lessons. CS50 from Harvard is well known and really good: https://cs50.harvard.edu/
+
+Just search [YouTube](https://www.youtube.com/results?search_query=learn+to+web+development)!
+
+I recorded a short video going over these resources [here](https://www.youtube.com/watch?v=wqeMsPm71RY).
+
 # Setup / Computer
 
 I have done a live stream where I setup my Macbook for development from scratch and answer several of the questions you see below [here](https://www.youtube.com/watch?v=tMNOpaQrfAE).
@@ -345,12 +377,26 @@ You can see all of the gear I use to stream [here](https://coding.garden/gear/),
 
 I have streamed myself setting up / talking about my equipment [here](https://www.youtube.com/watch?v=EFv9fMmuj-o). My setup these days is mostly the same, I just use a desktop gaming PC for streaming instead of a gaming laptop, and I stream at home in my basement instead of in an office space.
 
+## What Macbook do you have?
+
+I have a Mid 2015 Macbook Pro:
+* Mojave 10.14.6
+* Intel "Core i7" Quad Core 2.5 GHz
+* 16GB RAM
+* 500GB SSD
+* AMD Radeon R9 M370X 2GB GPU
+
+This is the second 2015 Macbook pro I have owned. The first one I got brand new in 2015. I decided to replace it with a similar model but with a faster processor, more hard drive space and a dedicated GPU. The current one I bought lightly used on ebay in May 2020.
+
+Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html)
+
 ## Why do you use a Mac?
 
 Preface: I am not an apple "fan boy". My macbook is the only apple product I use.
+* I don't have the latest and greatest model, I use a 2015 Macbook Pro.
 * I don't have an icloud account.
 * I don't use siri.
-* I have some old iPhones I use for testing occasionally, but I use an Android phone + google services as my daily driver.
+* I have some old iPhones I use for testing occasionally, but I use an Android phone as my daily driver.
 
 Reasons I use a mac:
 * Everything just works™️ on my Mac.
@@ -417,6 +463,12 @@ If you don't find anything, feel free to ask in the chat, [on discord](https://c
 ## What chair do you use?
 
 I use an Ikea Markus chair. They don't sell the green one anymore, but you can still get a black / grey one [here](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/).
+
+## What desk do you use?
+
+I have an IKEA [LINNMON](https://www.ikea.com/us/en/p/linnmon-tabletop-white-20251139/) tabletop with [OLOV](https://www.ikea.com/us/en/p/olov-leg-adjustable-black-30264301/) adjustable legs set to a standing height (I'm short, so the maximum height of these legs works for me...).
+
+When I'm not standing, I use the same tabletop with [ADILS](https://www.ikea.com/us/en/p/adils-leg-black-70217973/) legs.
 
 ## Why is your CPU 170 degrees celsius?
 

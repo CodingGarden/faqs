@@ -315,7 +315,7 @@ I usually say I'm 75+ on stream as a joke. I'm a bit younger than that. Please d
 
 ## Who is that dog on the getting started screen? Do you really have a Saint Bernard?
 
-I do have a dog! His name is Panzer. He is a ~4 year old Saint Bernard. He weighs about 120+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
+I do have a dog! His name is Panzer. He is a ~6 year old Saint Bernard. He weighs about 120+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
 

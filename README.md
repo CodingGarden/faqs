@@ -31,7 +31,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [What are the available commands in the chat?](#what-are-the-available-commands-in-the-chat)
   - [Why is everyone typing !drop?](#why-is-everyone-typing-drop)
   - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
-  - [How is your chair (and hair) green?](#how-is-your-chair-and-hair-green)
+  - [How is your chair green?](#how-is-your-chair-green)
   - [What are those LEDS on screen?](#what-are-those-leds-on-screen)
   - [What are cjClap POGGERS PogU OMEGALUL etc. I see in the chat?](#what-are-cjclap-poggers-pogu-omegalul-etc-i-see-in-the-chat)
   - [What are channel points / seedlings?](#what-are-channel-points--seedlings)
@@ -111,12 +111,12 @@ There is also a cross platform break timer call [Stretchly](https://hovancik.net
 
 ## What keyboard do you use?
 
-It is an inexpensive 60% mechanical keyboard from a company called E-Element. I got the black version with brown switches. I don't know much about mechanical keyboards, and I got this one just to try it out. It works well enough for me.
+RK ROYAL KLUDGE RK G68 65% Mechanical Keyboard. It has brown switches.
 
-* Affiliate link (support me) - https://amzn.to/2nFa2wo
-* Direct link (protect your privacy) - https://www.amazon.com/gp/product/B01M3UQX1Y/
+* Affiliate link (support me) - https://amzn.to/3uwvKRF
+* Direct link (protect your privacy) - https://www.amazon.com/gp/product/B08JCSPYBX/
 
-Also checkout https://coding.garden/gear for more info on my setup.
+Also checkout https://coding.garden/gear for other keyboards I've used and more info on my setup.
 
 ## What extension do you use to search with !npm and !mdn
 
@@ -137,7 +137,7 @@ No. I have a [full time job](#what-do-you-do-for-a-living).
 
 ## Why don't you stream on YouTube anymore?
 
-I switched to twitch fully at the end of April 2020. I will do an exclusive live stream on YouTube occasionally, and a supporters only stream on YouTube occasionally, but my contract with twitch restricts me from cross streaming to Twitch + YouTube simultaneously.
+I switched to twitch fully at the end of April 2020. My contract with twitch restricts me from cross streaming to Twitch + YouTube simultaneously.
 
 There are several reasons I switched to twitch:
 * Better APIs / Integrations
@@ -194,7 +194,7 @@ The mods (and I) adjust slow mode based on how many people are watching and how 
 
 Whatever the slow mode is set to, use that time to construct a beautiful and thoughtful message instead of just spamming.
 
-## How is your chair (and hair) green?
+## How is your chair green?
 
 [I use a blue screen](https://coding.garden/gear/). In the early days, I used a green screen, but with the garden theme, things are often green, so I switched to a blue screen.
 
@@ -240,13 +240,12 @@ All of my mods are long time viewers of the stream, have gained my trust over ti
 
 * It keeps my energy / enthusiasm up.
 * I can point at the screen weather man style.
-* Right now, I sit while working from home. Standing during my streams is a nice change of pace.
 
 # History of Coding Garden
 
 ## How long have you been doing this?
 
-I have been live streaming for 2.5+ years.
+I have been live streaming for 4.5+ years.
 
 My first live stream was broadcasted to [YouTube on February 19th, 2018](https://www.youtube.com/watch?v=aql62xliRzE). My YouTube channel had about 300 subscribers at the time, and there were a max of 3 people in the chat.
 
@@ -264,13 +263,13 @@ Between April 2020 and July 2020, I did **52** live streams on Twitch only.
 
 On July 20th 2020, I got accepted into the Twitch Partner program.
 
-In total between February 2018 and July 2020, I have done **311** live streams.
+In total between February 2018 and March 2022, I have done **460** live streams.
 
 ## How did you start live streaming?
 
 I'm an educator at heart. My live streams started as a way for me to continue teaching outside of the classroom.
 
-I taught Full Stack Web Development at a code school for 3+ years. I taught 150+ students and 6+ cohorts. That's over 700+ in person lessons, breakouts, presentations and 1 on 1s with students. During this time, I honed my teaching, mentoring and presentation skills. My live streams are very similar to how I ran and structured my in person lessons.
+I taught Full Stack Web Development at a code school for ~3 years. I taught 150+ students and 6+ cohorts. That's over 700+ in person lessons, breakouts, presentations and 1 on 1s with students. During this time, I honed my teaching, mentoring and presentation skills. My live streams are very similar to how I ran and structured my in person lessons.
 
 My students were often at many different stages of learning, so my teaching style reflected that. Instead of pre-planning all of my lessons, my lessons were planned the day of, based on where my students were and based on what they needed to learn next. This was the beginnings of my improvisational style. My lessons were often live code-alongs, and I often would need to quickly code an example from scratch to demonstrate a concept.
 
@@ -290,21 +289,19 @@ The [coding.garden](https://coding.garden) domain was available, so I went with 
 
 ## Are you self taught? Do you have a computer science degree?
 
-I have a Bachelor of Science in Computer Science and a Minor in Mathematics. My university did not offer any CS specializations at the time, but I did take a few courses in Cybersecurity / Computer Forensics.
-
 I have a highly technical education / background, but I've been self learning all my life. I started teaching myself basic programming and building websites when I was in middle school.
+
+I have a Bachelor of Science in Computer Science and a Minor in Mathematics. My university did not offer any CS specializations at the time, but I did take a few courses in Cybersecurity / Computer Forensics.
 
 ## How long have you been coding?
 
-Over 15 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C++ in college. Wrote C# / .NET desktop applications for a while. Started learning modern web technologies in my spare time, taught JavaScript full stack web development for 3+ years, and now I work as a Chief Full Stack Engineer.
+Over 17 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C++ in college. Wrote C# / .NET desktop applications for a while. Started learning modern web technologies in my spare time, taught JavaScript full stack web development for 3+ years, and now I work as a Chief Full Stack Engineer.
 
 ## What do you do for a living?
 
 I work full time as the Chief Full Stack Engineer at a Software Consultancy in Denver, Colorado.
 
 ## What does CJ R. stand for?
-
-Whatever you want it to stand for.
 
 _Everyone_ has always called me **CJ**. Just call me **CJ**.
 
@@ -321,8 +318,6 @@ I usually say I'm 75+ on stream as a joke. I'm a bit younger than that. Please d
 I do have a dog! His name is Panzer. He is a ~4 year old Saint Bernard. He weighs about 120+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
-
-One day I'll setup my stream upstairs and have a dog cam 🐶.
 
 # Tech Preferences
 
@@ -397,16 +392,15 @@ Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_p
 
 ## Why do you use a Mac?
 
-Preface: I am not an apple "fan boy". My macbook is the only apple product I use.
+Everything just works™️ on my Mac. I spent 6+ years in Windows IT support. I've used Windows 95, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable. Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works.
+
+My Macbook is the only thing from the Apple ecosystem:
 * I don't have the latest and greatest model, I use a 2015 Macbook Pro.
 * I don't have an icloud account.
 * I don't use siri.
 * I have some old iPhones I use for testing occasionally, but I use an Android phone as my daily driver.
 
-Reasons I use a mac:
-* Everything just works™️ on my Mac.
-  * I spent 6+ years in Windows IT support. I've used Windows 95, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable.
-  * Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works, but I've used / installed linux distros since before point and click installers were the norm. I've spent weeks searching for working drivers and tweaking linux systems to get them working. Even today, there are quite a few proprietary video drivers still required to get things working fully.
+Other reasons I use a mac:
 * OS X is based on FreeBSD.
   * Most tools / utilities for linux are supported / work out of the box.
   * I can use a native Bash shell.

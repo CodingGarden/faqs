@@ -131,7 +131,7 @@ Some of the ones I use most often:
 
 ## Are you looking for work? Will you build X App for me?
 
-No. I have a [full time job](#what-do-you-do-for-a-living).
+No.
 
 # Twitch / Stream
 
@@ -150,13 +150,17 @@ There are several reasons I switched to twitch:
 
 ## What is your schedule?
 
-View my schedule here: https://www.twitch.tv/codinggarden/schedule
+* View the schedule on twitch: https://cdg.sh/schedule
+* View the calendar on google: https://cdg.sh/calendar
+* Download the calendar ics: https://cdg.sh/ics
 
 Also, join the discord for updates, unplanned streams and go live notifications: https://coding.garden/discord
 
 ## Do you do this fulltime?
 
-No. Just part time. See the [personal questions section](#what-do-you-do-for-a-living) for more info.
+Yes! I went full time in June 2022.
+
+Please support me so I can stay full time! https://coding.garden/support
 
 ## What are the rules of the chat?
 
@@ -228,7 +232,7 @@ All of my overlays were created live on stream and all of the code is open sourc
 
 Yes. You can find the most recent live streams on my [twitch video page](https://www.twitch.tv/codinggarden/videos?filter=archives&sort=time).
 
-Live streams are archived / clipped and uploaded to [YouTube](https://youtube.com/codinggardenwithcj) about 48 hours after they have happened.
+Live streams are archived / clipped and uploaded to [YouTube](https://youtube.com/codinggarden) about 48 hours after they have happened.
 
 ## Can I be a mod?
 
@@ -263,7 +267,7 @@ Between April 2020 and July 2020, I did **52** live streams on Twitch only.
 
 On July 20th 2020, I got accepted into the Twitch Partner program.
 
-In total between February 2018 and March 2022, I have done **460** live streams.
+In total between February 2018 and July 12th 2022, I have done **471** live streams.
 
 ## How did you start live streaming?
 
@@ -299,7 +303,7 @@ Over 17 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C
 
 ## What do you do for a living?
 
-I work full time as the Chief Full Stack Engineer at a Software Consultancy in Denver, Colorado.
+In June 2022 I started creating content full time!
 
 ## What does CJ R. stand for?
 
@@ -315,7 +319,7 @@ I usually say I'm 75+ on stream as a joke. I'm a bit younger than that. Please d
 
 ## Who is that dog on the getting started screen? Do you really have a Saint Bernard?
 
-I do have a dog! His name is Panzer. He is a ~6 year old Saint Bernard. He weighs about 120+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
+I do have a dog! His name is Panzer. He is a ~6 year old Saint Bernard. He weighs about 130+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
 

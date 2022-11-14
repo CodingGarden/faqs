@@ -158,7 +158,9 @@ Also, join the discord for updates, unplanned streams and go live notifications:
 
 ## Do you do this fulltime?
 
-Yes! I went full time in June 2022.
+I left my fulltime job as a Software Engineer at a consulting company in June 2022.
+
+I am now living off savings and figuring out ways to make a living through Twitch, Youtube and paid courses.
 
 Please support me so I can stay full time! https://coding.garden/support
 
@@ -176,7 +178,7 @@ In summary:
 
 ## What are the available commands in the chat?
 
-See the list of chat commands here: https://coding.garden/commands
+See the list of chat commands here: https://streamlabs.com/codinggarden/v2
 
 ## Why is everyone typing !drop?
 
@@ -202,15 +204,9 @@ Whatever the slow mode is set to, use that time to construct a beautiful and tho
 
 [I use a blue screen](https://coding.garden/gear/). In the early days, I used a green screen, but with the garden theme, things are often green, so I switched to a blue screen.
 
-## What are those LEDS on screen?
-
-They are controlled by twitch chat. I built it live on stream: https://www.youtube.com/watch?v=onkzhfXJlp0
-
-You can make the LEDs on the screen change state using "!led (8-digit binary number)". 1 is on, 0 is off.
-
 ## What are cjClap POGGERS PogU OMEGALUL etc. I see in the chat?
 
-These are [Better Twitch TV](https://betterttv.com/) or [Frankerfacez](https://www.frankerfacez.com/) emotes! You can install a browser extension that renders these types of emotes all across twitch. (I use the Frankerfacez extension which has a BTTV addon).
+These are [Better Twitch TV](https://betterttv.com/), [Frankerfacez](https://www.frankerfacez.com/) or [7tv](https://7tv.app/) emotes! You can install a browser extension that renders these types of emotes all across twitch. (I use the Frankerfacez extension which has a BTTV and 7tv addon).
 
 You can see a list of the Frankerfacez emotes enabled for my channel [here](https://www.frankerfacez.com/channel/codinggarden).
 
@@ -232,7 +228,7 @@ All of my overlays were created live on stream and all of the code is open sourc
 
 Yes. You can find the most recent live streams on my [twitch video page](https://www.twitch.tv/codinggarden/videos?filter=archives&sort=time).
 
-Live streams are archived / clipped and uploaded to [YouTube](https://youtube.com/codinggarden) about 48 hours after they have happened.
+Live streams are archived / clipped and uploaded to [The Coding Garden Archive on YouTube](https://youtube.com/codinggardenarchive) about 48 hours after they have happened. Some older live streams are on the main [Coding Garden YouTube](https://youtube.com/codinggarden) channel as well.
 
 ## Can I be a mod?
 
@@ -240,7 +236,9 @@ The first rule of being a mod, is you do not ask to be a mod.
 
 All of my mods are long time viewers of the stream, have gained my trust over time and positively contribute to the streams / chat.
 
-## Why are you standing?
+We also have a channel point reward called "Request to be a mod" that costs 200K seedlings. Redeeming this will start the conversation, but there are no guarantees. The points will be refunded regardless of the outcome.
+
+## Why are you standing (sometimes)?
 
 * It keeps my energy / enthusiasm up.
 * I can point at the screen weather man style.
@@ -267,7 +265,7 @@ Between April 2020 and July 2020, I did **52** live streams on Twitch only.
 
 On July 20th 2020, I got accepted into the Twitch Partner program.
 
-In total between February 2018 and July 12th 2022, I have done **471** live streams.
+In total between February 2018 and November 14th 2022, I have done **528** live streams.
 
 ## How did you start live streaming?
 
@@ -299,13 +297,13 @@ I have a Bachelor of Science in Computer Science and a Minor in Mathematics. My 
 
 ## How long have you been coding?
 
-Over 17 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C++ in college. Wrote C# / .NET desktop applications for a while. Started learning modern web technologies in my spare time, taught JavaScript full stack web development for 3+ years, and now I work as a Chief Full Stack Engineer.
+Over 18 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C++ in college. Wrote C# / .NET desktop applications for a while. Started learning modern web technologies in my spare time, taught JavaScript full stack web development for 3+ years, worked as a Chief Full Stack Engineer / Architect for 3+ years and now I am a full time gardener.
 
 ## What do you do for a living?
 
 In June 2022 I started creating content full time!
 
-## What does CJ R. stand for?
+## What does CJ stand for?
 
 _Everyone_ has always called me **CJ**. Just call me **CJ**.
 
@@ -313,15 +311,19 @@ Please don't ask about my first / last name, or share my first / last name in th
 
 ## How old are you?
 
+The oldest I've ever been.
+
 You don't want to know. You will either be disappointed, surprised, or it will have no effect. Either way, you really don't want to know.
 
 I usually say I'm 75+ on stream as a joke. I'm a bit younger than that. Please don't ask about my age, or share my age in the chat if you do know it.
 
 ## Who is that dog on the getting started screen? Do you really have a Saint Bernard?
 
-I do have a dog! His name is Panzer. He is a ~6 year old Saint Bernard. He weighs about 130+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
+I do have a dog! His name is Panzer. He is a ~6.75 year old Saint Bernard. He weighs about 130+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
+
+I also did an IRL dog walk you can watch [here](https://www.twitch.tv/videos/1633203073)
 
 # Tech Preferences
 
@@ -344,15 +346,13 @@ Here are a few timestamped links that will answer your question:
 ## What is your preferred deployment method?
 
 It _really_ depends. Some services I use:
+* [Surge](https://surge.sh/)
+  * Good for static websites (hosted on a CDN)
 * [Vercel formerly now.sh](https://vercel.com/)
   * Good for static websites (hosted on a CDN)
   * Serverless functions
-* [Heroku](https://heroku.com/)
-  * Good for long running processes (think websocket connections) with easy deployment
 * [AWS Lightsail](https://aws.amazon.com/lightsail/pricing/)
   * Cheap VPS, requires linux system administration / setup
-* [Surge](https://surge.sh/)
-  * Good for static websites (hosted on a CDN)
 
 ## What are some good resources to learn to code?
 
@@ -373,7 +373,9 @@ I recorded a short video going over these resources [here](https://www.youtube.c
 
 # Setup / Computer
 
-I have done a live stream where I setup my Macbook for development from scratch and answer several of the questions you see below [here](https://www.youtube.com/watch?v=tMNOpaQrfAE).
+I have done a live stream where I setup my Macbook for development from scratch and answer several of the questions you see below [here](https://www.youtube.com/watch?v=2_ZbslLnshw).
+
+I documented all of the settings and apps I use [here](https://github.com/codinggarden/mac-setup)
 
 ## What do you use to live stream?
 
@@ -383,8 +385,9 @@ I have streamed myself setting up / talking about my equipment [here](https://ww
 
 ## What Macbook do you have?
 
-I have a Mid 2015 Macbook Pro:
-* Mojave 10.14.6
+I am still using the 2015 Macbook Pro (yes still in 2022). This 7 year old laptop still runs great for all of my needs (development, music production, video editing and image editing).
+
+These are the specs at a glance:
 * Intel "Core i7" Quad Core 2.5 GHz
 * 16GB RAM
 * 500GB SSD
@@ -396,7 +399,7 @@ Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_p
 
 ## Why do you use a Mac?
 
-Everything just works™️ on my Mac. I spent 6+ years in Windows IT support. I've used Windows 95, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable. Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works.
+Everything just works™️ on my Mac. I spent 6+ years in Windows IT support. I've used Windows 95, 98, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable. Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works.
 
 My Macbook is the only thing from the Apple ecosystem:
 * I don't have the latest and greatest model, I use a 2015 Macbook Pro.
@@ -409,7 +412,7 @@ Other reasons I use a mac:
   * Most tools / utilities for linux are supported / work out of the box.
   * I can use a native Bash shell.
 * I can run Xcode and build / test iOS / mac apps without the need for any 3rd party tools / services.
-* I do creative things outside of coding. The Adobe Suite, Abelton live / logic pro all work flawlessly on my Mac.
+* I do creative things outside of coding. The Adobe Suite, Ableton live / logic pro all work flawlessly on my Mac.
 * If I want to use Windows / Linux, I can dual boot or use a virtual machine.
 
 ## Where are those `gss` and `gaa` git shortcuts defined?

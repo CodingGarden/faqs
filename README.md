@@ -33,6 +33,7 @@ If you have a question that you believe should be listed here, please [open an i
   - [Why is the chat in slow mode?](#why-is-the-chat-in-slow-mode)
   - [How is your chair green?](#how-is-your-chair-green)
   - [What are cjClap POGGERS PogU OMEGALUL etc. I see in the chat?](#what-are-cjclap-poggers-pogu-omegalul-etc-i-see-in-the-chat)
+  - [How is your twitch avatar animated?](#how-is-your-twitch-avatar-animated)
   - [What are channel points / seedlings?](#what-are-channel-points--seedlings)
   - [How did you make those overlays / chat window?](#how-did-you-make-those-overlays--chat-window)
   - [Will this stream be available later?](#will-this-stream-be-available-later)
@@ -52,14 +53,17 @@ If you have a question that you believe should be listed here, please [open an i
 - [Tech Preferences](#tech-preferences)
   - [Why don't you use VIM?](#why-dont-you-use-vim)
   - [Why do you prefer Vue.js?](#why-do-you-prefer-vuejs)
+  - [Why don't you like Tailwind?](#why-dont-you-like-tailwind)
   - [What is your preferred deployment method?](#what-is-your-preferred-deployment-method)
   - [What are some good resources to learn to code?](#what-are-some-good-resources-to-learn-to-code)
 - [Setup / Computer](#setup--computer)
   - [What do you use to live stream?](#what-do-you-use-to-live-stream)
   - [What Macbook do you have?](#what-macbook-do-you-have)
   - [Why do you use a Mac?](#why-do-you-use-a-mac)
+  - [Are you left-handed? Why do you use a left handed mouse?](#are-you-left-handed-why-do-you-use-a-left-handed-mouse)
   - [Where are those `gss` and `gaa` git shortcuts defined?](#where-are-those-gss-and-gaa-git-shortcuts-defined)
   - [What do you use to show all those stats in the menu bar?](#what-do-you-use-to-show-all-those-stats-in-the-menu-bar)
+  - [What window manager / window switcher do you use?](#what-window-manager--window-switcher-do-you-use)
   - [What browser do you use? What extensions do you use?](#what-browser-do-you-use-what-extensions-do-you-use)
   - [Why do you use DuckDuckGo?](#why-do-you-use-duckduckgo)
   - [How is your YouTube green themed?](#how-is-your-youtube-green-themed)
@@ -211,6 +215,10 @@ You can see a list of the Frankerfacez emotes enabled for my channel [here](http
 
 You can see the list of BTTV emotes enabled for my channel [here](https://betterttv.com/users/5e0c2494d40c477ba4a53b7d).
 
+## How is your twitch avatar animated?
+
+I am a [7tv](https://7tv.app/) subscriber and animated avatars are one of the perks. If you're seeing my animated avatar, that means you have the 7tv extension or 7tv addon enabled.
+
 ## What are channel points / seedlings?
 
 You can earn channel points (seedlings) by watching the stream. Learn more about how much you will earn [here](https://help.twitch.tv/s/article/channel-points-guide#viewers).
@@ -342,6 +350,23 @@ Here are a few timestamped links that will answer your question:
 * [Overview of Vue (with React developers in mind)](https://www.youtube.com/watch?v=Sba3S4SD4IE&t=7205s)
 * [When should I choose Vue over React / Angular](https://www.twitch.tv/videos/700224339?t=0h36m39s)
 
+## Why don't you like Tailwind?
+
+Most of the things I build on stream are rapid prototypes or things where I do not want to write the styles from scratch.
+
+Tailwind itself is NOT a component library or CSS framework. It is a utility library that requires you to assemble all of its utility classes to create your own styles. If I were to use tailwind for the types of apps I build on stream, I would need to write all of the styles from scratch. In most situations I do not want to do that.
+
+I know that tailwind based frameworks exist, like TailwindUI, Daisy UI, Flowbite or [many of the others](https://duckduckgo.com/?q=tailwind+component+libraries&t=ffab&ia=web), but I do not have much experience with these and prefer to use things I know like [Bootstrap](https://getbootstrap.com/) or [Bulma](https://bulma.io/).
+
+Also, Tailwind is a type of CSS developer experience. I do not like the experience it provides. I prefer [CSS Modules](https://github.com/css-modules/css-modules), [SCSS](https://sass-lang.com/), [SFC](https://vuejs.org/api/sfc-spec.html#sfc-syntax-specification) styles or [CSS in JS](https://cssinjs.org/react-jss?v=v10.9.2) much more than Tailwind itself.
+
+On the point of naming / creating css class names: as a programmer you are already naming other things (variables, functions, components etc.), typically css classnames align with those other names. On the topic of single / standalone elements needing a name, I agree that utility classes are useful in this context, but I don't think we should use utility classes for _everything_.
+
+All of the above is my opinion and if you do not feel the same, you do not have to try and convince me of your opinion. I respect your opinion, but my opinion is different. 🌝
+
+With love and respect,
+-CJ
+
 ## What is your preferred deployment method?
 
 It _really_ depends. Some services I use:
@@ -414,6 +439,14 @@ Other reasons I use a mac:
 * I do creative things outside of coding. The Adobe Suite, Ableton live / logic pro all work flawlessly on my Mac.
 * If I want to use Windows / Linux, I can dual boot or use a virtual machine.
 
+## Are you left-handed? Why do you use a left handed mouse?
+
+I am not left-handed. I started using a left handed mouse about 8 years ago when I started getting wrist pain in my right wrist.
+
+I continue to use a left-handed mouse today as this continues to prevent issues with my right hand.
+
+You can read more about the mouse I use on the [gear page](https://coding.garden/gear/).
+
 ## Where are those `gss` and `gaa` git shortcuts defined?
 
 Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
@@ -423,6 +456,10 @@ You can see my `.bash_profile` including all of my aliases [here](https://github
 ## What do you use to show all those stats in the menu bar?
 
 I use a tool called [iStat Menus](https://bjango.com/mac/istatmenus/). I have version 5.
+
+## What window manager / window switcher do you use?
+
+On my mac, I use [Rectangle](https://rectangleapp.com/) to manage windows and [Alt-Tab](https://alt-tab-macos.netlify.app/) to switch between apps. You can read more about them [here](https://github.com/CodingGarden/mac-setup/#os-productivity).
 
 ## What browser do you use? What extensions do you use?
 

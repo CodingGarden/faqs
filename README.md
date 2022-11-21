@@ -214,9 +214,9 @@ Whatever the slow mode is set to, use that time to construct a beautiful and tho
 
 These are [Better Twitch TV](https://betterttv.com/), [Frankerfacez](https://www.frankerfacez.com/) or [7tv](https://7tv.app/) emotes! You can install a browser extension that renders these types of emotes all across twitch. (I use the Frankerfacez extension which has a BTTV and 7tv addon).
 
-You can see a list of the Frankerfacez emotes enabled for my channel [here](https://www.frankerfacez.com/channel/codinggarden).
+You can see [a list of the Frankerfacez emotes](https://www.frankerfacez.com/channel/codinggarden) enabled for my channel.
 
-You can see the list of BTTV emotes enabled for my channel [here](https://betterttv.com/users/5e0c2494d40c477ba4a53b7d).
+You can see [the list of BTTV emotes](https://betterttv.com/users/5e0c2494d40c477ba4a53b7d) enabled for my channel.
 
 ## How is your twitch avatar animated?
 
@@ -224,7 +224,7 @@ I am a [7tv](https://7tv.app/) subscriber and animated avatars are one of the pe
 
 ## What are channel points / seedlings?
 
-You can earn channel points (seedlings) by watching the stream. Learn more about how much you will earn [here](https://help.twitch.tv/s/article/channel-points-guide#viewers).
+You can earn channel points (seedlings) by watching the stream. Learn more about [how much you will earn](https://help.twitch.tv/s/article/channel-points-guide#viewers).
 
 Seedlings can be used to redeem rewards like stretch, hydrate, focus mode, code reviews and more.
 
@@ -232,7 +232,7 @@ Click the icon below the twitch chat to redeem them.
 
 ## How did you make those overlays / chat window?
 
-All of my overlays were created live on stream and all of the code is open source under the MIT license! Read more about that [here](./OVERLAYS_CHAT_MANAGER.md).
+All of my overlays were created live on stream and all of the code is open source under the MIT license! Read more about [that](./OVERLAYS_CHAT_MANAGER.md).
 
 ## Will this stream be available later?
 
@@ -333,7 +333,7 @@ I do have a dog! His name is Panzer. He is a ~6.75 year old Saint Bernard. He we
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
 
-I also did an IRL dog walk you can watch [here](https://www.twitch.tv/videos/1633203073)
+I also did an IRL dog walk you can [watch](https://www.twitch.tv/videos/1633203073).
 
 # Tech Preferences
 
@@ -401,19 +401,19 @@ There are _many_ college courses with free online class materials and recorded l
 
 Just search [YouTube](https://www.youtube.com/results?search_query=learn+to+web+development)!
 
-I recorded a short video going over these resources [here](https://www.youtube.com/watch?v=wqeMsPm71RY).
+I recorded a [short video](https://www.youtube.com/watch?v=wqeMsPm71RY) going over these resources.
 
 # Setup / Computer
 
-I have done a live stream where I setup my Macbook for development from scratch and answer several of the questions you see below [here](https://www.youtube.com/watch?v=2_ZbslLnshw).
+I have done a [live stream](https://www.youtube.com/watch?v=2_ZbslLnshw) where I setup my Macbook for development from scratch and answer several of the questions.
 
-I documented all of the settings and apps I use [here](https://github.com/codinggarden/mac-setup)
+I documented [all of the settings and apps](https://github.com/codinggarden/mac-setup) I use.
 
 ## What do you use to live stream?
 
-You can see all of the gear I use to stream [here](https://coding.garden/gear/), also, checkout the diagram at the [bottom of that page](https://coding.garden/gear/#stream-setup).
+You can see [all of the gear](https://coding.garden/gear/) I use to stream, also, checkout the diagram at the [bottom of that page](https://coding.garden/gear/#stream-setup).
 
-I have streamed myself setting up / talking about my equipment [here](https://www.youtube.com/watch?v=EFv9fMmuj-o). My setup these days is mostly the same, I just use a desktop gaming PC for streaming instead of a gaming laptop, and I stream at home in my basement instead of in an office space.
+I have [streamed](https://www.youtube.com/watch?v=EFv9fMmuj-o) myself setting up / talking about my equipment. My setup these days is mostly the same, I just use a desktop gaming PC for streaming instead of a gaming laptop, and I stream at home in my basement instead of in an office space.
 
 ## What Macbook do you have?
 
@@ -428,7 +428,7 @@ These are the specs at a glance:
 
 This is the second 2015 Macbook pro I have owned. The first one I got brand new in 2015. I decided to replace it with a similar model but with a faster processor, more hard drive space and a dedicated GPU. The current one I bought lightly used on ebay in May 2020.
 
-Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html)
+Read more about [this Macbook](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html).
 
 ## Why do you use a Mac?
 
@@ -462,7 +462,7 @@ You can read more about the mouse I use on the [gear page](https://coding.garden
 
 Bash is my preferred shell. I have aliases setup in my `.bash_profile`.
 
-You can see my `.bash_profile` including all of my aliases [here](https://github.com/w3cj/dotfiles/blob/master/.bash_profile#L47).
+You can see [my `.bash_profile` including all of my aliases](https://github.com/w3cj/dotfiles/blob/master/.bash_profile#L47).
 
 ## What do you use to show all those stats in the menu bar?
 
@@ -470,7 +470,7 @@ I use a tool called [iStat Menus](https://bjango.com/mac/istatmenus/). I have ve
 
 ## What window manager / window switcher do you use?
 
-On my mac, I use [Rectangle](https://rectangleapp.com/) to manage windows and [Alt-Tab](https://alt-tab-macos.netlify.app/) to switch between apps. You can read more about them [here](https://github.com/CodingGarden/mac-setup/#os-productivity).
+On my mac, I use [Rectangle](https://rectangleapp.com/) to manage windows and [Alt-Tab](https://alt-tab-macos.netlify.app/) to switch between apps. You can read more about [them] (https://github.com/CodingGarden/mac-setup/#os-productivity).
 
 ## What browser do you use? What extensions do you use?
 
@@ -509,7 +509,7 @@ I use an extension called [Enhancer for Youtube](https://addons.mozilla.org/en-U
 
 ## Do you have a video / tutorial on X?
 
-You can search across all of my past videos / livestreams [here](https://coding.garden/videos/#/?filter=).
+You can search across [all of my past videos / livestreams](https://coding.garden/videos/#/?filter=).
 
 You can also try searching on [YouTube](https://www.youtube.com/results?search_query=coding+garden) directly.
 
@@ -517,7 +517,7 @@ If you don't find anything, feel free to ask in the chat, [on discord](https://c
 
 ## What chair do you use?
 
-I use an Ikea Markus chair. They don't sell the green one anymore, but you can still get a black / grey one [here](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/).
+I use an Ikea Markus chair. They don't sell the green one anymore, but you can still get [a black / grey one](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/).
 
 ## What desk do you use?
 

@@ -14,7 +14,6 @@ If you have a question that you believe should be listed here, please [open an i
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Most Asked](#most-asked)
   - [What theme do you use in VSCode?](#what-theme-do-you-use-in-vscode)
   - [What font do you use in VSCode?](#what-font-do-you-use-in-vscode)
@@ -96,19 +95,20 @@ https://www.marksimonson.com/fonts/view/anonymous-pro
 
 This is not a VSCode plugin. This is just built in to a Mac and works anywhere:
 
-* Mac: CMD + CTRL + Space
+- Mac: CMD + CTRL + Space
 
 This also works on Windows 10:
 
-* Windows: Windows Key + Period or Windows Key + Colon
+- Windows: Windows Key + Period or Windows Key + Colon
 
 ## What is that break reminder that keeps popping up?
 
 It's called [Time Out by Dejal](https://www.dejal.com/timeout/). It is Mac only software.
 
 I have it setup to show:
-  * 10 second micro break every 15 minutes
-  * 5 minute long break every 60 minutes
+
+- 10 second micro break every 15 minutes
+- 5 minute long break every 60 minutes
 
 There is also a cross platform break timer call [Stretchly](https://hovancik.net/stretchly/). I have not used it but a lot of people have recommended it.
 
@@ -116,8 +116,8 @@ There is also a cross platform break timer call [Stretchly](https://hovancik.net
 
 RK ROYAL KLUDGE RK G68 65% Mechanical Keyboard. It has brown switches.
 
-* Affiliate link (support me) - https://amzn.to/3uwvKRF
-* Direct link (protect your privacy) - https://www.amazon.com/gp/product/B08JCSPYBX/
+- Affiliate link (support me) - https://amzn.to/3uwvKRF
+- Direct link (protect your privacy) - https://www.amazon.com/gp/product/B08JCSPYBX/
 
 Also checkout https://coding.garden/gear for other keyboards I've used and more info on my setup.
 
@@ -126,11 +126,12 @@ Also checkout https://coding.garden/gear for other keyboards I've used and more 
 This is not an extension. I have [DuckDuckGo](https://duckduckgo.com/) set as my default search engine, and these are called [bang commands](https://duckduckgo.com/bang).
 
 Some of the ones I use most often:
-* !npm - npm
-* !mdn - Mozilla Developer Network
-* !gh - Github
-* !w - Wikipedia
-* !g - google
+
+- !npm - npm
+- !mdn - Mozilla Developer Network
+- !gh - Github
+- !w - Wikipedia
+- !g - google
 
 ## Are you looking for work? Will you build X App for me?
 
@@ -143,19 +144,20 @@ No.
 I switched to twitch fully at the end of April 2020. My contract with twitch restricts me from cross streaming to Twitch + YouTube simultaneously.
 
 There are several reasons I switched to twitch:
-* Better APIs / Integrations
-* Lower Latency
-* Stream Clips (created by anyone)
-* Community support
-  * The majority of live coders in this space are on Twitch, not YouTube
-* Community features like teams, raids, hosts and watch parties.
-* More emotes!!
+
+- Better APIs / Integrations
+- Lower Latency
+- Stream Clips (created by anyone)
+- Community support
+  - The majority of live coders in this space are on Twitch, not YouTube
+- Community features like teams, raids, hosts and watch parties.
+- More emotes!!
 
 ## What is your schedule?
 
-* View the schedule on twitch: https://cdg.sh/schedule
-* View the calendar on google: https://cdg.sh/calendar
-* Download the calendar ics: https://cdg.sh/ics
+- View the schedule on twitch: https://cdg.sh/schedule
+- View the calendar on google: https://cdg.sh/calendar
+- Download the calendar ics: https://cdg.sh/ics
 
 Also, join the discord for updates, unplanned streams and go live notifications: https://coding.garden/discord
 
@@ -188,10 +190,11 @@ See the list of chat commands here: https://streamlabs.com/codinggarden/v2
 This is the drop game! The garden of seedlings at the bottom center of my screen are all of the drops that have landed there.
 
 You can:
-* Drop a seed: !drop
-* Drop your twitch avatar: !drop me
-* Drop any twitch / BTTV / FFZ emote: !drop codinggHeart
-* Drop an emoji: !drop 💚
+
+- Drop a seed: !drop
+- Drop your twitch avatar: !drop me
+- Drop any twitch / BTTV / FFZ emote: !drop codinggHeart
+- Drop an emoji: !drop 💚
 
 This game was coded live on stream and was inspired by the [PenguinDrop](https://github.com/instafluff/PenguinDrop) game created by [Instafluff](https://www.twitch.tv/instafluff). More on that in the [stream overlays section](#how-did-you-make-those-overlays--chat-window).
 
@@ -247,8 +250,8 @@ We also have a channel point reward called "Request to be a mod" that costs 200K
 
 ## Why are you standing (sometimes)?
 
-* It keeps my energy / enthusiasm up.
-* I can point at the screen weather man style.
+- It keeps my energy / enthusiasm up.
+- I can point at the screen weather man style.
 
 # History of Coding Garden
 
@@ -337,18 +340,20 @@ I also did an IRL dog walk you can watch [here](https://www.twitch.tv/videos/163
 ## Why don't you use VIM?
 
 Several reasons:
-* The days of needing to ssh into a remote computer to edit code in a terminal are [long gone](https://code.visualstudio.com/docs/remote/ssh).
-* Terminal based editors make it very hard for viewers to follow what is happening, especially beginners.
-* I prefer to not memorize specific / custom keyboard shortcuts and instead rely on [global / universal keyboard shortcuts](https://gist.github.com/w3cj/022081eda22081b82c52).
-* I also prefer to use the intellisense / autocomplete / snippets provided by VSCode. I realize these can be setup in VIM, but this requires a lot of setup / configuration / tweaking that I do not want to do.
+
+- The days of needing to ssh into a remote computer to edit code in a terminal are [long gone](https://code.visualstudio.com/docs/remote/ssh).
+- Terminal based editors make it very hard for viewers to follow what is happening, especially beginners.
+- I prefer to not memorize specific / custom keyboard shortcuts and instead rely on [global / universal keyboard shortcuts](https://gist.github.com/w3cj/022081eda22081b82c52).
+- I also prefer to use the intellisense / autocomplete / snippets provided by VSCode. I realize these can be setup in VIM, but this requires a lot of setup / configuration / tweaking that I do not want to do.
 
 ## Why do you prefer Vue.js?
 
 I have talked about this in depth on many different live streams.
 
 Here are a few timestamped links that will answer your question:
-* [Overview of Vue (with React developers in mind)](https://www.youtube.com/watch?v=Sba3S4SD4IE&t=7205s)
-* [When should I choose Vue over React / Angular](https://www.twitch.tv/videos/700224339?t=0h36m39s)
+
+- [Overview of Vue (with React developers in mind)](https://www.youtube.com/watch?v=Sba3S4SD4IE&t=7205s)
+- [When should I choose Vue over React / Angular](https://www.twitch.tv/videos/700224339?t=0h36m39s)
 
 ## Why don't you like Tailwind?
 
@@ -370,24 +375,27 @@ With love and respect,
 ## What is your preferred deployment method?
 
 It _really_ depends. Some services I use:
-* [Surge](https://surge.sh/)
-  * Good for static websites (hosted on a CDN)
-* [Vercel formerly now.sh](https://vercel.com/)
-  * Good for static websites (hosted on a CDN)
-  * Serverless functions
-* [AWS Lightsail](https://aws.amazon.com/lightsail/pricing/)
-  * Cheap VPS, requires linux system administration / setup
+
+- [Surge](https://surge.sh/)
+  - Good for static websites (hosted on a CDN)
+- [Vercel formerly now.sh](https://vercel.com/)
+  - Good for static websites (hosted on a CDN)
+  - Serverless functions
+- [AWS Lightsail](https://aws.amazon.com/lightsail/pricing/)
+  - Cheap VPS, requires linux system administration / setup
 
 ## What are some good resources to learn to code?
 
 Resources with full curriculums:
-* [FreeCodeCamp](https://www.freecodecamp.org/)
-* [The Odin Project](https://www.theodinproject.com/)
-* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 
 Great for complete beginners and non technical people:
-* [The Coding Train](https://www.youtube.com/user/shiffman)
-* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 There are _many_ college courses with free online class materials and recorded lessons. CS50 from Harvard is well known and really good: https://cs50.harvard.edu/
 
@@ -412,10 +420,11 @@ I have streamed myself setting up / talking about my equipment [here](https://ww
 I am still using the 2015 Macbook Pro (yes still in 2022). This 7 year old laptop still runs great for all of my needs (development, music production, video editing and image editing).
 
 These are the specs at a glance:
-* Intel "Core i7" Quad Core 2.5 GHz
-* 16GB RAM
-* 500GB SSD
-* AMD Radeon R9 M370X 2GB GPU
+
+- Intel "Core i7" Quad Core 2.5 GHz
+- 16GB RAM
+- 500GB SSD
+- AMD Radeon R9 M370X 2GB GPU
 
 This is the second 2015 Macbook pro I have owned. The first one I got brand new in 2015. I decided to replace it with a similar model but with a faster processor, more hard drive space and a dedicated GPU. The current one I bought lightly used on ebay in May 2020.
 
@@ -426,18 +435,20 @@ Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_p
 Everything just works™️ on my Mac. I spent 6+ years in Windows IT support. I've used Windows 95, 98, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable. Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works.
 
 My Macbook is the only thing from the Apple ecosystem:
-* I don't have the latest and greatest model, I use a 2015 Macbook Pro.
-* I don't have an icloud account.
-* I don't use siri.
-* I have some old iPhones I use for testing occasionally, but I use an Android phone as my daily driver.
+
+- I don't have the latest and greatest model, I use a 2015 Macbook Pro.
+- I don't have an icloud account.
+- I don't use siri.
+- I have some old iPhones I use for testing occasionally, but I use an Android phone as my daily driver.
 
 Other reasons I use a mac:
-* OS X is based on FreeBSD.
-  * Most tools / utilities for linux are supported / work out of the box.
-  * I can use a native Bash shell.
-* I can run Xcode and build / test iOS / mac apps without the need for any 3rd party tools / services.
-* I do creative things outside of coding. The Adobe Suite, Ableton live / logic pro all work flawlessly on my Mac.
-* If I want to use Windows / Linux, I can dual boot or use a virtual machine.
+
+- OS X is based on FreeBSD.
+  - Most tools / utilities for linux are supported / work out of the box.
+  - I can use a native Bash shell.
+- I can run Xcode and build / test iOS / mac apps without the need for any 3rd party tools / services.
+- I do creative things outside of coding. The Adobe Suite, Ableton live / logic pro all work flawlessly on my Mac.
+- If I want to use Windows / Linux, I can dual boot or use a virtual machine.
 
 ## Are you left-handed? Why do you use a left handed mouse?
 
@@ -468,19 +479,21 @@ I currently use [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/). T
 I switched to Google Chrome for a while, but Firefox has caught up in terms of performance / features, so I'm back to Firefox.
 
 I use the following Privacy Related Extensions. Firefox + these extensions is my preferred way of browsing the web instead of using a browser that has these features "bundled" in:
-* Adblocker - [uBlock Origin](https://github.com/gorhill/uBlock)
-* Tracker Blocker - [Privacy Badger](https://privacybadger.org/)
-  * Firefox now includes tracker blocking, but I leave Privacy Badger enabled.
-* [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
-  * Removes cookies from websites that are not in my whitelist whenever a tab is closed. An additional precaution to tracker blocking.
-* [Decentraleyes](https://decentraleyes.org/)
-  * Caches CDN links locally and intercepts requests to serve from the cache. Prevents CDNs from tracking you across websites.
-* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
-  * This isn't needed as much these days, as most websites use HTTPS, but this prevents certain redirect / plain text attacks from occurring.
+
+- Adblocker - [uBlock Origin](https://github.com/gorhill/uBlock)
+- Tracker Blocker - [Privacy Badger](https://privacybadger.org/)
+  - Firefox now includes tracker blocking, but I leave Privacy Badger enabled.
+- [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
+  - Removes cookies from websites that are not in my whitelist whenever a tab is closed. An additional precaution to tracker blocking.
+- [Decentraleyes](https://decentraleyes.org/)
+  - Caches CDN links locally and intercepts requests to serve from the cache. Prevents CDNs from tracking you across websites.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+  - This isn't needed as much these days, as most websites use HTTPS, but this prevents certain redirect / plain text attacks from occurring.
 
 Themes / customization:
-* Custom CSS on websites - [Stylus](https://github.com/openstyles/stylus)
-* Custom JavaScript on websites - [Tampermonkey](https://www.tampermonkey.net/)
+
+- Custom CSS on websites - [Stylus](https://github.com/openstyles/stylus)
+- Custom JavaScript on websites - [Tampermonkey](https://www.tampermonkey.net/)
 
 ## Why do you use DuckDuckGo?
 
@@ -520,16 +533,16 @@ It's not. The measurement displayed is in degrees fahrenheit.
 
 This seems to be an issue a lot of people have at random.
 
-* Try refreshing the page.
-* Log out / Log in.
-* Try a different browser.
-* Try using a different device.
-* Try disabling extensions.
-* Try a different operating system.
-* Try using the [twitch app](https://www.twitch.tv/downloads/) instead of the browser.
-* Try using a twitch chat client like [Chatty](https://chatty.github.io/) or [Chatterino](https://chatterino.com/).
-* Write your own twitch client with [tmi.js](https://github.com/tmijs/tmi.js)...
-* Try all the things.
+- Try refreshing the page.
+- Log out / Log in.
+- Try a different browser.
+- Try using a different device.
+- Try disabling extensions.
+- Try a different operating system.
+- Try using the [twitch app](https://www.twitch.tv/downloads/) instead of the browser.
+- Try using a twitch chat client like [Chatty](https://chatty.github.io/) or [Chatterino](https://chatterino.com/).
+- Write your own twitch client with [tmi.js](https://github.com/tmijs/tmi.js)...
+- Try all the things.
 
 Sorry this is happening. If none of these things work, contact twitch support: https://help.twitch.tv/s/contactsupport
 

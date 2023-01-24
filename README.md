@@ -53,7 +53,7 @@ If you have a question that you believe should be listed here, please [open an i
 - [Tech Preferences](#tech-preferences)
   - [Why don't you use VIM?](#why-dont-you-use-vim)
   - [Why do you prefer Vue.js?](#why-do-you-prefer-vuejs)
-  - [Why don't you like Tailwind?](#why-dont-you-like-tailwind)
+  - [What do you think of Tailwind?](#what-do-you-think-of-tailwind)
   - [What is your preferred deployment method?](#what-is-your-preferred-deployment-method)
   - [What are some good resources to learn to code?](#what-are-some-good-resources-to-learn-to-code)
 - [Setup / Computer](#setup--computer)
@@ -350,22 +350,15 @@ Here are a few timestamped links that will answer your question:
 * [Overview of Vue (with React developers in mind)](https://www.youtube.com/watch?v=Sba3S4SD4IE&t=7205s)
 * [When should I choose Vue over React / Angular](https://www.twitch.tv/videos/700224339?t=0h36m39s)
 
-## Why don't you like Tailwind?
+## What do you think of Tailwind?
 
 Most of the things I build on stream are rapid prototypes or things where I do not want to write the styles from scratch.
 
 Tailwind itself is NOT a component library or CSS framework. It is a utility library that requires you to assemble all of its utility classes to create your own styles. If I were to use tailwind for the types of apps I build on stream, I would need to write all of the styles from scratch. In most situations I do not want to do that.
 
-I know that tailwind based frameworks exist, like TailwindUI, Daisy UI, Flowbite or [many of the others](https://duckduckgo.com/?q=tailwind+component+libraries&t=ffab&ia=web), but I do not have much experience with these and prefer to use things I know like [Bootstrap](https://getbootstrap.com/) or [Bulma](https://bulma.io/).
+I know that tailwind based frameworks exist, like TailwindUI, Daisy UI, Flowbite or [many of the others](https://duckduckgo.com/?q=tailwind+component+libraries&t=ffab&ia=web), but I do not have much experience with these and prefer to use things I know like [Bootstrap](https://getbootstrap.com/), [Bulma](https://bulma.io/) or [PicoCSS](https://picocss.com/).
 
 Also, Tailwind is a type of CSS developer experience. I do not like the experience it provides. I prefer [CSS Modules](https://github.com/css-modules/css-modules), [SCSS](https://sass-lang.com/), [SFC](https://vuejs.org/api/sfc-spec.html#sfc-syntax-specification) styles or [CSS in JS](https://cssinjs.org/react-jss?v=v10.9.2) much more than Tailwind itself.
-
-On the point of naming / creating css class names: as a programmer you are already naming other things (variables, functions, components etc.), typically css classnames align with those other names. On the topic of single / standalone elements needing a name, I agree that utility classes are useful in this context, but I don't think we should use utility classes for _everything_.
-
-All of the above is my opinion and if you do not feel the same, you do not have to try and convince me of your opinion. I respect your opinion, but my opinion is different. 🌝
-
-With love and respect,
--CJ
 
 ## What is your preferred deployment method?
 
@@ -409,17 +402,14 @@ I have streamed myself setting up / talking about my equipment [here](https://ww
 
 ## What Macbook do you have?
 
-I am still using the 2015 Macbook Pro (yes still in 2022). This 7 year old laptop still runs great for all of my needs (development, music production, video editing and image editing).
+I have the 2021 14" Macbook Pro
 
 These are the specs at a glance:
-* Intel "Core i7" Quad Core 2.5 GHz
+* Apple M1 Pro
 * 16GB RAM
 * 500GB SSD
-* AMD Radeon R9 M370X 2GB GPU
 
-This is the second 2015 Macbook pro I have owned. The first one I got brand new in 2015. I decided to replace it with a similar model but with a faster processor, more hard drive space and a dedicated GPU. The current one I bought lightly used on ebay in May 2020.
-
-Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html)
+Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html)
 
 ## Why do you use a Mac?
 

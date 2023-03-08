@@ -10,8 +10,8 @@
   "author": "CJ R. <cj@null.computer> (https://w3cj.sh)",
   "license": "MIT",
   "dependencies": {
-    "doctoc": "^1.4.0",
-    "husky": "^4.2.5"
+    "doctoc": "^2.2.1",
+    "husky": "^8.0.3"
   },
   "husky": {
     "hooks": {

@@ -14,7 +14,6 @@ If you have a question that you believe should be listed here, please [open an i
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Most Asked](#most-asked)
   - [What theme do you use in VSCode?](#what-theme-do-you-use-in-vscode)
   - [What font do you use in VSCode?](#what-font-do-you-use-in-vscode)
@@ -416,7 +415,7 @@ Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_p
 Everything just works™️ on my Mac. I spent 6+ years in Windows IT support. I've used Windows 95, 98, XP, Me, 7, Vista, 8 and 10. The amount of things that have gone wrong on my Windows machines is immeasurable. Most of my old windows laptops have become linux machines. I prefer Ubuntu because I'm used to it and it mostly just works.
 
 My Macbook is the only thing from the Apple ecosystem:
-* I don't have the latest and greatest model, I use a 2015 Macbook Pro.
+* I used a 2015 Macbook Pro for 7 years. I finally upgraded to a 14" M1 Pro in January 2023.
 * I don't have an icloud account.
 * I don't use siri.
 * I have some old iPhones I use for testing occasionally, but I use an Android phone as my daily driver.

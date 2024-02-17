@@ -14,6 +14,7 @@ If you have a question that you believe should be listed here, please [open an i
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Most Asked](#most-asked)
   - [What theme do you use in VSCode?](#what-theme-do-you-use-in-vscode)
   - [What font do you use in VSCode?](#what-font-do-you-use-in-vscode)
@@ -23,7 +24,6 @@ If you have a question that you believe should be listed here, please [open an i
   - [What extension do you use to search with !npm and !mdn](#what-extension-do-you-use-to-search-with-npm-and-mdn)
   - [Are you looking for work? Will you build X App for me?](#are-you-looking-for-work-will-you-build-x-app-for-me)
 - [Twitch / Stream](#twitch--stream)
-  - [Why don't you stream on YouTube anymore?](#why-dont-you-stream-on-youtube-anymore)
   - [What is your schedule?](#what-is-your-schedule)
   - [Do you do this fulltime?](#do-you-do-this-fulltime)
   - [What are the rules of the chat?](#what-are-the-rules-of-the-chat)
@@ -137,19 +137,6 @@ No.
 
 # Twitch / Stream
 
-## Why don't you stream on YouTube anymore?
-
-I switched to twitch fully at the end of April 2020. My contract with twitch restricts me from cross streaming to Twitch + YouTube simultaneously.
-
-There are several reasons I switched to twitch:
-* Better APIs / Integrations
-* Lower Latency
-* Stream Clips (created by anyone)
-* Community support
-  * The majority of live coders in this space are on Twitch, not YouTube
-* Community features like teams, raids, hosts and watch parties.
-* More emotes!!
-
 ## What is your schedule?
 
 * View the schedule on twitch: https://cdg.sh/schedule
@@ -160,11 +147,7 @@ Also, join the discord for updates, unplanned streams and go live notifications:
 
 ## Do you do this fulltime?
 
-I left my fulltime job as a Software Engineer at a consulting company in June 2022.
-
-I am now living off savings and figuring out ways to make a living through Twitch, Youtube and paid courses.
-
-Please support me so I can stay full time! https://coding.garden/support
+Coding Garden is part-time. I work for Syntax fulltime as a Senior Creator. Read more about that [here](https://coding.garden/syntax)
 
 ## What are the rules of the chat?
 
@@ -232,9 +215,9 @@ All of my overlays were created live on stream and all of the code is open sourc
 
 ## Will this stream be available later?
 
-Yes. You can find the most recent live streams on my [twitch video page](https://www.twitch.tv/codinggarden/videos?filter=archives&sort=time).
+Yes. You can find the most recent live streams on [youtube](https://www.youtube.com/@CodingGarden/streams) and my [twitch video page](https://www.twitch.tv/codinggarden/videos?filter=archives&sort=time).
 
-Live streams are archived / clipped and uploaded to [The Coding Garden Archive on YouTube](https://youtube.com/codinggardenarchive) about 48 hours after they have happened. Some older live streams are on the main [Coding Garden YouTube](https://youtube.com/codinggarden) channel as well.
+Live streams from January 2022 and August 2023 are uploaded to [The Coding Garden Archive on YouTube](https://youtube.com/codinggardenarchive). Live streams before January 2022 and after August 2023 are available on the main Coding Garden YouTube channel.
 
 ## Can I be a mod?
 
@@ -253,7 +236,7 @@ We also have a channel point reward called "Request to be a mod" that costs 200K
 
 ## How long have you been doing this?
 
-I have been live streaming for 4.5+ years.
+I have been live streaming for 6+ years.
 
 My first live stream was broadcasted to [YouTube on February 19th, 2018](https://www.youtube.com/watch?v=aql62xliRzE). My YouTube channel had about 300 subscribers at the time, and there were a max of 3 people in the chat.
 
@@ -271,7 +254,9 @@ Between April 2020 and July 2020, I did **52** live streams on Twitch only.
 
 On July 20th 2020, I got accepted into the Twitch Partner program.
 
-In total between February 2018 and November 14th 2022, I have done **528** live streams.
+In total between February 2018 and February 16th 2024, I have done **668** live streams.
+
+Twitch updated their Partner agreement in August 2023, so I have since resumed cross streaming to both platforms.
 
 ## How did you start live streaming?
 
@@ -303,17 +288,17 @@ I have a Bachelor of Science in Computer Science and a Minor in Mathematics. My 
 
 ## How long have you been coding?
 
-Over 18 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C++ in college. Wrote C# / .NET desktop applications for a while. Started learning modern web technologies in my spare time, taught JavaScript full stack web development for 3+ years, worked as a Chief Full Stack Engineer / Architect for 3+ years and now I am a full time gardener.
+Over 20 years! I started coding HTML / CSS websites as a kid. Learned Java, C, C++ in college. Wrote C# / .NET desktop applications for a while. Started learning modern web technologies in my spare time, taught JavaScript full stack web development for 3+ years, worked as a Chief Full Stack Engineer / Architect for 3+ years and now I am a full time content creator.
 
 ## What do you do for a living?
 
-In June 2022 I started creating content full time!
+I work for Syntax fulltime as a Senior Creator. Read more about that [here](https://coding.garden/syntax)
 
 ## What does CJ stand for?
 
 _Everyone_ has always called me **CJ**. Just call me **CJ**.
 
-Please don't ask about my first / last name, or share my first / last name in the chat if you do know it.
+Please don't ask about my full name, or share my full name in the chat if you do know it.
 
 ## How old are you?
 
@@ -325,7 +310,7 @@ I usually say I'm 75+ on stream as a joke. I'm a bit younger than that. Please d
 
 ## Who is that dog on the getting started screen? Do you really have a Saint Bernard?
 
-I do have a dog! His name is Panzer. He is a ~6.75 year old Saint Bernard. He weighs about 130+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
+I do have a dog! His name is Panzer. He is a ~8 year old Saint Bernard. He weighs about 130+ lbs. He is a very good boy, but he is afraid of the stairs, so he will not come down stairs to where I stream.
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
 
@@ -351,13 +336,7 @@ Here are a few timestamped links that will answer your question:
 
 ## What do you think of Tailwind?
 
-Most of the things I build on stream are rapid prototypes or things where I do not want to write the styles from scratch.
-
-Tailwind itself is NOT a component library or CSS framework. It is a utility library that requires you to assemble all of its utility classes to create your own styles. If I were to use tailwind for the types of apps I build on stream, I would need to write all of the styles from scratch. In most situations I do not want to do that.
-
-I know that tailwind based frameworks exist, like TailwindUI, Daisy UI, Flowbite or [many of the others](https://duckduckgo.com/?q=tailwind+component+libraries&t=ffab&ia=web), but I do not have much experience with these and prefer to use things I know like [Bootstrap](https://getbootstrap.com/), [Bulma](https://bulma.io/) or [PicoCSS](https://picocss.com/).
-
-Also, Tailwind is a type of CSS developer experience. I do not like the experience it provides. I prefer [CSS Modules](https://github.com/css-modules/css-modules), [SCSS](https://sass-lang.com/), [SFC](https://vuejs.org/api/sfc-spec.html#sfc-syntax-specification) styles or [CSS in JS](https://cssinjs.org/react-jss?v=v10.9.2) much more than Tailwind itself.
+It's fine. I use it when it makes sense to.
 
 ## What is your preferred deployment method?
 
@@ -461,13 +440,12 @@ I use the following Privacy Related Extensions. Firefox + these extensions is my
 * Tracker Blocker - [Privacy Badger](https://privacybadger.org/)
   * Firefox now includes tracker blocking, but I leave Privacy Badger enabled.
 * [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
-  * Removes cookies from websites that are not in my whitelist whenever a tab is closed. An additional precaution to tracker blocking.
+  * Removes cookies from websites that are not in my allowlist whenever a tab is closed. An additional precaution to tracker blocking.
 * [Decentraleyes](https://decentraleyes.org/)
   * Caches CDN links locally and intercepts requests to serve from the cache. Prevents CDNs from tracking you across websites.
-* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
-  * This isn't needed as much these days, as most websites use HTTPS, but this prevents certain redirect / plain text attacks from occurring.
 
 Themes / customization:
+* Automatic Dark theme on websites - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 * Custom CSS on websites - [Stylus](https://github.com/openstyles/stylus)
 * Custom JavaScript on websites - [Tampermonkey](https://www.tampermonkey.net/)
 

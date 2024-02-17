@@ -314,7 +314,7 @@ I do have a dog! His name is Panzer. He is a ~8 year old Saint Bernard. He weigh
 
 I was streaming at an undisclosed location once, and [he did make an appearance](https://clips.twitch.tv/FantasticFreezingCrabBudStar).
 
-I also did an IRL dog walk you can watch [here](https://www.twitch.tv/videos/1633203073)
+I also did an IRL dog walk you can watch [here](https://www.twitch.tv/videos/1634793304)
 
 # Tech Preferences
 
